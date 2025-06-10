@@ -21,10 +21,37 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a></li>
-    </li>
-    <li><a href="#instructions">Languages and Utilities</a></li>
-    <li><a href="#contact">Environments Used</a></li>
+   <li><a href="#languages-and-utilities-used">Languages and Utilities Used</a></li> 
+   <li><a href="#environments-used">Environments Used</a></li> 
+   <li><a href="#about-the-project">About The Project</a></li>
+   <li><a href="#instructions">Instructions</a></li>
   </ol>
 </details>
+
+
+
+## Languages and Utilities Used
+
+- <b>Visual Studio Code</b> 
+- <b>Terraform</b>
+
+
+## Environments Used
+
+- <b>Windows 11</b> (21H2)
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+- This project allows you to connect your GCP project to GitHub Actions & run Terraform to trigger a workflow while spin up your infra from code instead of using the console or gcloud CLI.
+
+
+## Instructions
+
+1. Create a new service acount in GCP & add the desied roles to the new service account
+
+
+
+
+
