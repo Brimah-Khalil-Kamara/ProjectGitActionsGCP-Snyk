@@ -15,3 +15,16 @@
     <br />
   </p>
 </p>
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a></li>
+    </li>
+    <li><a href="#instructions">Languages and Utilities</a></li>
+    <li><a href="#contact">Environments Used</a></li>
+  </ol>
+</details>
