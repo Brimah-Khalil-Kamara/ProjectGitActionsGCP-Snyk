@@ -7,10 +7,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Use GitHub Actions & Terraform to Automatically Spin up Resources in GCP.</h3>
+  <h3 align="center">Use GitHub Actions & Terraform to Automatically Spin up Resources in GCP and run Snyc scans.</h3>
 
   <p align="center">
-    This project shows you how to connect your GCP project to GitHub Actions & run Terraform to spin up your infra from code instead of using the console or gcloud CLI. 
+    This project demonstrates how to connect your GCP project to GitHub Actions & run Terraform to spin up your infrastructure from code. 
     <br />
     <br />
   </p>
